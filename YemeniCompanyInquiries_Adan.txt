@@ -1,0 +1,16 @@
+		 <<Welcome to Aden International Airport.>>
+<<Departure times>>
+
+   Day    	    Time     	 Airports    	 Country         
+ sunday   	   10:00MT    	    46      	 Yemen_Saudi     
+__________________________
+
+	<< Return times >>
+
+   Day    	     Time   	   Airports   	   Form_to       
+ Tuesday  	   10:00MT   	    46      	  Saudi_Yemen    
+_________________________
+
+<< Ticket prices >>
+from		   to		   prices		 Airport
+Yemen		 Saudi  	200$		   46
