@@ -1,0 +1,13 @@
+		 <<Welcome to Sanna International Airport.>>
+	<<Departure times>>
+   Day       	  Time   	   Airports     	Form_to  
+ Mounday  	   10:00MT     	YEMEN45     	Yemen_Egypt    
+_____________________________
+
+	<<Return times>>
+  	Day   		Time     Airports   	Form_to
+ Wednesday  10:00MT   YEMEN45   Egypt_Yemen  
+_______________________
+<<2-Ticket prices.>>
+from		    to		     prices	   	Airport
+Yemen	  	Egypt  	  	250$		    YEMEN45
